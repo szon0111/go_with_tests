@@ -6,4 +6,4 @@
 	<img src="red-green-blue-gophers-smaller.png" />
 </p>
 
-[Art by Denise](https://twitter.com/deniseyu21)
+[Art by Denise](https://twitter.com/deniseyu21) 
